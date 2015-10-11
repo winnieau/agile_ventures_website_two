@@ -12,6 +12,8 @@ Technologies Used
 - Paperclip
 - HTML
 - CSS
+- jQuery
+- Devise
 - Amazon Web Services
 
 Heroku app (live)
