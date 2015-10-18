@@ -37,10 +37,11 @@ To Run Locally
 - Run rails s 
 - In your browser open up a tab for localhost at whichever port the terminal specifies
 
-Others who contributed to this repository: 
+Others who worked on/contributed to this project: 
 ---
 
 * [Parminder Sanghera](https://github.com/ajitsy)
 * [Josh Tatterton](https://github.com/JoshuaTatterton)
 * [Richard Charman](https://github.com/RichardCharman)
 * [Balint Nemes](https://github.com/squarebe)
+* [Sam Joseph](https://github.com/tansaku)
