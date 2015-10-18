@@ -36,3 +36,11 @@ To Run Locally
 - CD into the cloned folder and run bundle (if you already have bundler, if not you need to run gem install bundler first) [See more details on bundler](http://bundler.io/)
 - Run rails s 
 - In your browser open up a tab for localhost at whichever port the terminal specifies
+
+Others who contributed to this repository: 
+---
+
+* [Parminder Sanghera](https://github.com/ajitsy)
+* [Josh Tatterton](https://github.com/JoshuaTatterton)
+* [Richard Charman](https://github.com/RichardCharman)
+* [Balint Nemes](https://github.com/squarebe)
