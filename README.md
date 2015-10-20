@@ -1,7 +1,7 @@
 # WebSiteTwo
 For considering AgileVentures Future Directions
 
-Ronin final project to implement an AgileVentures showcase
+Ronin final project to implement an AgileVentures showcase, created and deployed over the span of 2 weeks. 
 
 Screenshot
 ---
