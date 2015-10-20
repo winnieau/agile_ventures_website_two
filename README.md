@@ -46,3 +46,9 @@ Others who worked on/helped with this project:
 * [Balint Nemes](https://github.com/squarebe)
 * [Sam Joseph](https://github.com/tansaku)
 * [Sanjay Purswani](https://github.com/sanjsanj)
+
+
+About me
+---
+
+I am [Winnie Au](https://github.com/winnieau) from [Makers Academy](http://www.makersacademy.com/) Ronin cohort July 2015.
